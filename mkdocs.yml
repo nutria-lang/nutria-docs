@@ -1,0 +1,8 @@
+site_name: Nutria
+site_url: https://github.com/nutria-lang
+theme:
+  name: material
+  logo: assets/nutria-white-bg.png
+
+extra_css:
+  - stylesheets/extra.css
